@@ -48,48 +48,6 @@ I'm **William Kitungo** (Illusivehacks), a passionate **Information Security & D
 
 <br clear="right"/>
 
-<!-- ========== TECH ARSENAL ========== -->
-<h2 align="center">
-  <img src="https://media4.giphy.com/media/VbDbUQ8G5pVgPxw0gR/giphy.gif?cid=ecf05e47p2sjv4v98ayewak8uc8zx3nflmfj0302gs4r95q1&rid=giphy.gif" width="25" />
-  <b style="color:#00FFCC;">// Tech Arsenal</b>
-</h2>
-
-<p align="center">
-  <!--- Security Tools --->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2D2D2D?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white" />
-  <br>
-  <!--- Languages --->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br>
-  <!--- Networking & Cloud --->
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=internet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firewalls-FF2A6D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <br>
-  <!--- Databases & OS --->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot_OS-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
-  <br>
-  <!--- Mobile & Dev Tools --->
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
 
 
 <!-- ========== GITHUB ANALYTICS ========== -->
