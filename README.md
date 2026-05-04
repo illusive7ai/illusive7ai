@@ -1,5 +1,5 @@
 <!---
-ILLUSIVEHACKS | WILLIAM KITUNGO
+ILLUSIVEHACKS
 Cybersecurity & Digital Forensics Student
 Brand: Illusivehacks
 --->
@@ -159,55 +159,3 @@ I'm **William Kitungo** (Illusivehacks), a passionate **Information Security & D
   </picture>
 </p>
 
-<!-- ========== CERTIFICATIONS & LEARNING ========== -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QaAMr6ssg3vKQ1MZ6l/giphy.gif?cid=ecf05e47mtqn9w07p83cui75b2lwujv20ck40umc3hgyu7pu&rid=giphy.gif" width="25" />
-  <b style="color:#FF2A6D;">// Certifications & Learning Path</b>
-</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cisco_Networking_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B_(in_progress)-FF2A6D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python_Institute_PCEP-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DFIR_Forensics_Fundamentals-00FFCC?style=for-the-badge" />
-  <br>
-  <p><b>📚 Continuous learning:</b> SANS SEC504 | eJPT | Mobile Forensics | Threat Hunting</p>
-</div>
-
-<!-- ========== CURRENT FOCUS ========== -->
-<h2 align="center">
-  <img src="https://media.tenor.com/NOYgu3CcPBIAAAAi/hack-cyber.gif" width="30" />
-  <b style="color:#00FFCC;">// Current Focus</b>
-</h2>
-
-<div align="center">
-  <ul style="list-style-type: none; display: inline-block; text-align: left;">
-    <li>🔍 <b>Digital Forensics:</b> Memory analysis & timeline reconstruction</li>
-    <li>⚡ <b>Ethical Hacking:</b> Web app penetration testing & AD exploitation</li>
-    <li>🧪 <b>Malware Analysis:</b> Sandboxing & reverse engineering Windows executables</li>
-    <li>🛠️ <b>Secure Systems Development:</b> Building hardened APIs & DevSecOps pipelines</li>
-  </ul>
-</div>
-
-<!-- ========== CONNECT ========== -->
-<h2 align="center">
-  <img src="https://media3.giphy.com/media/l3q2K5njAlw7JBNJK/giphy.gif?cid=ecf05e47p2sjv4v98ayewak8uc8zx3nflmfj0302gs4r95q1&rid=giphy.gif" width="25" />
-  <b style="color:#FF2A6D;">// Connect</b>
-</h2>
-
-<p align="center">
-  <a href="https://williamportfolio-eosin.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FFCC?style=for-the-badge&logo=vercel&logoColor=black&labelColor=111111" /></a>
-  <a href="https://illusivehacks.github.io/"><img src="https://img.shields.io/badge/BLOG-FF2A6D?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=111111" /></a>
-  <a href="https://linkedin.com/in/william-kitungo"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" /></a>
-  <a href="mailto:hacksillusive@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" /></a>
-</p>
-
-<!-- ========== FOOTER ========== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,50:00FFCC,100:0a0a0a&height=100&section=footer" width="100%" />
-  <blockquote>
-    <i><b style="color:#00FFCC;">“The matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it.”</b><br>— Morpheus, The Matrix</i>
-  </blockquote>
-  <p><code>Illusivehacks — Silence your footsteps, own the noise.</code></p>
-  <p>⚡ <i>Securely yours,</i> <b>William Kitungo</b></p>
-</div>
