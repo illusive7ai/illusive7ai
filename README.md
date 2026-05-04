@@ -22,31 +22,77 @@ Brand: Illusivehacks
   <br>
 </div>
 
-<!-- ========== ABOUT ME ========== -->
+<!-- ========== ABOUT ME - HACKER EDITION ========== -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" />
-  <b style="color:#FF2A6D;">// About Me</b>
+  <img src="https://media.tenor.com/m/GfSX-u7VGM4AAAAC/hacker.gif" width="35" />
+  <span style="color: #00FF41;">┌─┤</span><span style="color: #FF0055;"> WHOAMI </span><span style="color: #00FF41;">├─┐</span>
 </h2>
 
 <div align="center">
-  <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+  <pre style="background: #0a0a0a; color: #00FF41; padding: 20px; border-radius: 15px; border: 1px solid #00FF41; font-family: 'Courier New', monospace; text-align: left; width: 85%;">
+<span style="color: #FF0055;">┌─────────────────────────────────────────────────────────────────────┐</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FF0055;">>>_ INITIALIZING IDENTITY MATRIX...</span>                              <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">┌─────────────────────────────────────────────────────────┐</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">│</span>  <span style="color: #FF0055;">●</span>  <span style="color: #00FF41;">HANDLE :</span>  <span style="color: #FFFFFF;">Illusivehacks</span>                                      <span style="color: #FFFFFF;">│</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">│</span>  <span style="color: #FF0055;">●</span>  <span style="color: #00FF41;">REAL NAME :</span>  <span style="color: #FFFFFF;">William Kitungo</span>                                   <span style="color: #FFFFFF;">│</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">│</span>  <span style="color: #FF0055;">●</span>  <span style="color: #00FF41;">ROLE :</span>  <span style="color: #FFFFFF;">Information Security & Digital Forensics Student</span>     <span style="color: #FFFFFF;">│</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">│</span>  <span style="color: #FF0055;">●</span>  <span style="color: #00FF41;">STATUS :</span>  <span style="color: #FFFFFF;">Hunting vulnerabilities & securing systems</span>          <span style="color: #FFFFFF;">│</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">│</span>  <span style="color: #FF0055;">●</span>  <span style="color: #00FF41;">MOTTO :</span>  <span style="color: #FFFFFF;">"Silence your footsteps, own the noise"</span>               <span style="color: #FFFFFF;">│</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">└─────────────────────────────────────────────────────────┘</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FF0055;">>>_ ACCESSING BIO DATABASE...</span>                                    <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">══════════════════════════════════════════════════════</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     I move through the <span style="color: #FF0055;">matrix of ones and zeros</span>, a ghost in the      <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     machine with a mission. By day, I'm decoding the anatomy        <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     of <span style="color: #FF0055;">digital threats</span> and reconstructing <span style="color: #FF0055;">forensic timelines</span>.      <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     By night, I write <span style="color: #FF0055;">Python scripts</span> that hunt what hides in the     <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     shadows. I am <span style="color: #00FF41;">Illusivehacks</span> — <span style="color: #FFFFFF;">ethical by choice, relentless by nature</span>.   <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     My tools? <span style="color: #FF0055;">Curiosity.</span> <span style="color: #FF0055;">Logic.</span> <span style="color: #FF0055;">Grit.</span> And a terminal that never sleeps.     <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FF0055;">>>_ LOADING SKILLSET...</span>                                           <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">───────────────────────────────────────────────────────</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #00FF41;">⚔️  ETHICAL HACKING</span>        │  <span style="color: #00FF41;">🐍  PYTHON SECURITY</span>                <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #00FF41;">🛡️  THREAT DETECTION</span>        │  <span style="color: #00FF41;">🧬  MALWARE ANALYSIS</span>                <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #00FF41;">💿  DIGITAL FORENSICS</span>       │  <span style="color: #00FF41;">🌐  WEB SECURITY</span>                   <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #00FF41;">🔐  SECURE DEVELOPMENT</span>      │  <span style="color: #00FF41;">📡  NETWORK ANALYSIS</span>                <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FF0055;">>>_ CURRENT OBJECTIVES...</span>                                        <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>  <span style="color: #FFFFFF;">───────────────────────────────────────────────────────</span>         <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #FF0055;">[●]</span>  Build automated threat hunting frameworks                    <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #FF0055;">[●]</span>  Complete OSCP & CISSP certification journey                  <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #FF0055;">[●]</span>  Launch a digital forensics lab for real-world simulations    <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>     <span style="color: #FF0055;">[●]</span>  Contribute to open-source security tools                     <span style="color: #00FF41;">│</span>
+<span style="color: #00FF41;">│</span>                                                                       <span style="color: #00FF41;">│</span>
+<span style="color: #FF0055;">└─────────────────────────────────────────────────────────────────────┘</span>
+  </pre>
 </div>
 
-I'm **William Kitungo** (Illusivehacks), a passionate **Information Security & Digital Forensics student** with a hacker's curiosity and a defender's mindset. My journey started with building small Python tools and evolved into researching threat detection systems, malware behavior, and secure software engineering.
+<!-- Matrix Rain Divider -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/-wBiM6y_k4QAAAAC/matrix-code.gif" width="100%" height="2" />
+</p>
 
-🔍 **Specializations:**
-- 🛡️ Threat Detection & Incident Response
-- 🐍 Python Security Automation
-- 🧬 Malware Analysis & Reverse Engineering
-- 🌐 Web Security & API Hardening
-- 📀 Digital Evidence Recovery
+<!-- Hacker GIF Row -->
+<div align="center">
+  <img src="https://media.tenor.com/m/NOYgu3CcPBIAAAAC/hack-cyber.gif" width="120" />
+  <img src="https://media.tenor.com/m/IeuZ1FtoT1IAAAAC/hacker-hack.gif" width="120" />
+  <img src="https://media.tenor.com/m/NeK8p5R7LpMAAAAC/hacker-typing.gif" width="120" />
+  <img src="https://media.tenor.com/m/ytVOEvq-0lYAAAAC/hack.gif" width="120" />
+</div>
 
-🎯 **Current Goals:**
-- Contribute to open-source security tools
-- Earn industry-recognized certifications (CISSP, OSCP)
-- Build a digital forensics lab for real-world simulations
-
-<br clear="right"/>
+<!-- Terminal-style Status Line -->
+<p align="center">
+  <code style="color: #00FF41; background: #0a0a0a; padding: 8px 15px; border-radius: 8px; border-left: 3px solid #FF0055;">
+  ┌─[ root@illusivehacks ]─[ ~/cybersec ]
+  └──╼ $<span style="color: #FF0055;"> echo "Ready to hack the status quo"</span>
+  > Ready to hack the status quo
+  </code>
+</p>
 
 
 
