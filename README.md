@@ -4,7 +4,7 @@ Cybersecurity & Digital Forensics Student
 Brand: Illusivehacks
 --->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=William+Kitungo+%7C+Illusivehacks;Digital+Forensics+%26+InfoSec+Student;Ethical+Hacker+%26+Threat+Hunter;Secure+Software+Developer;Python+Security+Tools+Architect;Web+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=Will+%7C+Illusivehacks;Digital+Forensics+%26+InfoSec+Student;Ethical+Hacker+%26+Threat+Hunter;Secure+Software+Developer;Python+Security+Tools+Architect;Web+Security+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
