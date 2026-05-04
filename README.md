@@ -90,47 +90,7 @@ I'm **William Kitungo** (Illusivehacks), a passionate **Information Security & D
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<!-- ========== FEATURED PROJECTS ========== -->
-<h2 align="center">
-  <img src="https://media3.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=ecf05e47qny3bk5i0tts9p2uotn0sgac5dje052pswyjhoq5&rid=giphy.gif" width="25" />
-  <b style="color:#FF2A6D;">// Featured Arsenal</b>
-</h2>
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse; background: #0a0a0a; border-radius: 20px;">
-    <tr>
-      <td width="50%" align="center" style="border: 1px solid #00FFCC55; border-radius: 15px; padding: 15px;">
-        <h3>🛡️ Anti-Phishing Email Scanner</h3>
-        <p>AI-powered email header analysis & URL reputation engine.</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/SMTP-0078D4?style=flat-square" />
-      </td>
-      <td width="50%" align="center" style="border: 1px solid #00FFCC55; border-radius: 15px; padding: 15px;">
-        <h3>💾 Digital Evidence Recovery Tool</h3>
-        <p>Carves deleted files & recovers metadata from disk images.</p>
-        <img src="https://img.shields.io/badge/Forensics-FF2A6D?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/TSK-0E83CD?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: 1px solid #00FFCC55; border-radius: 15px; padding: 15px;">
-        <h3>⚠️ Threat Detection Platform</h3>
-        <p>Real-time SIEM rules & anomaly detection dashboard.</p>
-        <img src="https://img.shields.io/badge/ELK-005571?style=flat-square" /> <img src="https://img.shields.io/badge/Suricata-FF2A6D?style=flat-square" />
-      </td>
-      <td align="center" style="border: 1px solid #00FFCC55; border-radius: 15px; padding: 15px;">
-        <h3>🏥 Healthcare Security System</h3>
-        <p>HIPAA-compliant access control & audit logging.</p>
-        <img src="https://img.shields.io/badge/RBAC-00FFCC?style=flat-square" /> <img src="https://img.shields.io/badge/ZeroTrust-000000?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" style="border: 1px solid #00FFCC55; border-radius: 15px; padding: 15px;">
-        <h3>🔐 Secure Content Sharing Platform</h3>
-        <p>End-to-end encrypted file sharing with ephemeral links.</p>
-        <img src="https://img.shields.io/badge/AES256-005571?style=flat-square" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- ========== GITHUB ANALYTICS ========== -->
 <h2 align="center">
@@ -150,12 +110,4 @@ I'm **William Kitungo** (Illusivehacks), a passionate **Information Security & D
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=illusive7ai&bg_color=0a0a0a&color=00FFCC&line=FF2A6D&point=FFFFFF&area=true&hide_border=true&radius=16" width="95%" />
 </p>
 
-<!-- ========== SNAKE CONTRIBUTION ========== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/illusive7ai/illusive7ai/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/illusive7ai/illusive7ai/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/illusive7ai/illusive7ai/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
 
