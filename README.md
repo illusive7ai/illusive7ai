@@ -22,3 +22,5 @@ Brand: Illusivehacks........
   <p><strong>Mission:</strong> To bridge the gap between offensive security research and digital forensics — building resilient systems, exposing vulnerabilities, and advocating for ethical cybersecurity practices.</p>
   <br>
 </div>
+
+Join my WhatsApp channel: https://whatsapp.com/channel/0029VaKenMe0LKZEAnWle521
