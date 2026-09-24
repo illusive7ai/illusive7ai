@@ -1,6 +1,6 @@
 <!---
 ILLUSIVEHACKS
-Cybersecurity & Digital Forensics Student.
+Cybersecurity & Digital Forensics Studen
 Brand: Illusivehacks..........................................................................
 
 --->
