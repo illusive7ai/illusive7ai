@@ -1,7 +1,7 @@
 <!---
 ILLUSIVEHACKS
 Cybersecurity & Digital Forensics Studen
-Brand: Illusivehacks........................................................................
+Brand: Illusivehacks......................................................................
 
 --->
 <p align="center">
