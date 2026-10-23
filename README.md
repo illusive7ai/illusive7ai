@@ -3,7 +3,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="livebio/showcase-dark.svg">
-  <img alt="Illusivehacks on GitHub, 56 repositories, 331 stars, 1,155 followers, 483 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="livebio/showcase-light.svg" width="900">
+  <img alt="Illusivehacks on GitHub, 56 repositories, 331 stars, 1,155 followers, 489 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="livebio/showcase-light.svg" width="900">
 </picture>
 </div>
 
@@ -16,7 +16,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="livebio/showcase-city-dark.svg">
-  <img alt="Contribution city: 483 contributions in the past year across 126 active days, busiest day 48, one building for each day" src="livebio/showcase-city-light.svg" width="900">
+  <img alt="Contribution city: 489 contributions in the past year across 126 active days, busiest day 48, one building for each day" src="livebio/showcase-city-light.svg" width="900">
 </picture>
 </div>
 
@@ -28,7 +28,12 @@
 </div>
 
 <div align="center">
-<sub>Made with <a href="https://github.com/illusive7ai/livebio">livebio</a> by <a href="https://github.com/illusive7ai">illusivehacks</a></sub>
+<a href="https://github.com/illusive7ai/livebio">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="livebio/credit-dark.svg">
+  <img alt="livebio by illusivehacks" src="livebio/credit-light.svg" width="229">
+</picture>
+</a>
 </div>
 
 <!-- livebio:end -->
