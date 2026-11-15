@@ -3,7 +3,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/wow-dark.svg?t=wow">
-  <img alt="Illusivehacks on GitHub, 57 repositories, 332 stars, 1,155 followers, 507 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/wow-light.svg?t=wow" width="900">
+  <img alt="Illusivehacks on GitHub, 57 repositories, 332 stars, 1,155 followers, 507 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/wow-light.svg?t=wow" width="900>
 </picture>
 </div>
 
